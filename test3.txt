@@ -1,1 +1,2 @@
 Sample 3 file
+restore and reset commands
